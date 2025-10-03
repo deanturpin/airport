@@ -5,6 +5,8 @@ Track flight timings to maximise duty-free shopping time.
 ## CSV Columns
 
 - **Date**: Flight date (YYYY-MM-DD)
+- **Airport**: Airport code and terminal (e.g., LGW North, LHR T5)
+- **Gate**: Gate number
 - **Destination**: Type of flight
   - `Domestic` - Within country
   - `Short haul` - Under 4 hours
