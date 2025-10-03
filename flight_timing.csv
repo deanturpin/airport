@@ -1,2 +1,2 @@
-Date,Destination,Scheduled Departure,Bag Check Close,Boarding Pass Check,Gate Announced,Time to Gate (mins),Gate Closes,Actual Departure,Security to Gate Time,Duty Free Available (mins)
-2024-10-03,Short haul,19:15,18:15,17:45,18:24,6,18:45,19:35,39,21
+Date,Destination,Scheduled Departure,Bag Check Close,Security Check (mins),Gate Announced,Time to Gate (mins),Gate Closes,Actual Departure,Security to Gate Time,Duty Free Available (mins)
+2024-10-03,Short haul,19:15,18:15,30,18:24,6,18:45,19:35,39,21

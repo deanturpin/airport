@@ -11,7 +11,7 @@ Track flight timings to maximise duty-free shopping time.
   - `Long haul` - Over 4 hours
 - **Scheduled Departure**: Official departure time
 - **Bag Check Close**: When bag drop closes
-- **Boarding Pass Check**: When you pass security
+- **Security Check (mins)**: Time to get through security
 - **Gate Announced**: When gate number appears on boards
 - **Time to Gate (mins)**: Walking time from duty-free to gate
 - **Gate Closes**: When boarding ends
