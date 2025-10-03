@@ -5,7 +5,6 @@ Track flight timings to maximise duty-free shopping time.
 ## CSV Columns
 
 - **Date**: Flight date (YYYY-MM-DD)
-- **Flight**: Flight number
 - **Destination**: Type of flight
   - `Domestic` - Within country
   - `Short haul` - Under 4 hours
