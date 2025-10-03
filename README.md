@@ -19,12 +19,15 @@ Track flight timings to maximise duty-free shopping time.
 - **Gate Closes**: When boarding ends
 - **Actual Departure**: When plane actually leaves
 - **Security to Gate Time**: Total time from security to gate announcement
-- **Duty Free Available (mins)**: Shopping time between gate announcement and gate closing
+- **Duty Free Available (mins)**: Shopping time between gate announcement and
+  gate closing
 
 ## Key Insights
 
 The critical window for duty-free shopping is between:
+
 1. Gate announcement time
 2. Gate closing time (minus walking time to gate)
 
-Track multiple flights to identify patterns by destination type and optimise your airport experience.
+Track multiple flights to identify patterns by destination type and optimise
+your airport experience.
